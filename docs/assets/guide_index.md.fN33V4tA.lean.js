@@ -1,0 +1,1 @@
+import{av as s,p as i,m as a,aQ as n}from"./chunks/framework.D1UtGIsq.js";const c=JSON.parse('{"title":"快速开始","description":"","frontmatter":{},"headers":[],"relativePath":"guide/index.md","filePath":"guide/index.md"}'),p={name:"guide/index.md"},t=n("",36),l=[t];function h(e,k,r,E,d,g){return a(),i("div",null,l)}const y=s(p,[["render",h]]);export{c as __pageData,y as default};
